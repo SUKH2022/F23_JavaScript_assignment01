@@ -29,6 +29,7 @@ h1{
     margin: auto;
 }
 
+/* button styling with some padding and margin */
 button{
     margin: 0.5rem;
     background: #ff2963;
