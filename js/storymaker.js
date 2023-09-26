@@ -22,7 +22,7 @@ const randomButton = document.getElementById('random');
 const storyParagraph = document.getElementById('story');
 
 
-// Variables for pre-defined arrays
+// Variables for pre-defined arrays for all the words 
 const nouns1 = ['cat', 'dog', 'bird', 'elephant', 'lion'];
 const verbs = ['ran', 'jumped', 'sang', 'ate', 'sleep'];
 const adjectives = ['happy', 'beautiful', 'funny', 'exciting', 'colorful'];
